@@ -27,7 +27,7 @@
       "inventory": "Inventario",
       "compact": "Compacto"
     },
-    "showBackpackPreview": "Mostrar Preview de la Mochila",
+    "showBackpackPreview": "Mostrar Previsualización de la Mochila",
     "hideHealthBar": "Ocultar Barra de Vida",
     "healthTextColor": "Color de Texto de Vida",
     "healthBarColor": "Color de la Barra de Vida",
@@ -38,7 +38,7 @@
     "nextPage": "Siguiente",
     "previousPage": "Atrás",
     "ignoreItemFrameClicks": "Ignorar Clicks en Item Frames",
-    "useVanillaTextureDefence": "Usar Textura de Vanilla para el Icono de Defensa",
+    "useVanillaTextureDefence": "Usar Textura Vanilla para el Icono de Defensa",
     "showBackpackHoldingShift": "Solo mostrar Backpack cuando se presiona Shift",
     "manaBar": "Barra de Maná",
     "manaText": "Número de Maná",
@@ -48,17 +48,17 @@
     "defenceText": "Número de Defensa",
     "defencePercentage": "Porcentaje de Defensa",
     "healthUpdates": "Número de Cambio de Vida",
-    "hidePlayersInLobby": "Ocultar Entidades leganas en Lobby",
+    "hidePlayersInLobby": "Ocultar Entidades lejanas en el Lobby",
     "textStyle": "Estilo de Texto: %style%",
     "textStyles": {
       "regular": "Regular",
       "blackShadow": "Sombra Negra"
     },
-    "darkAuctionTimer": "Contador del Black Auction",
+    "darkAuctionTimer": "Contador del Dark Auction",
     "magmaBossTimer": "Contador del Magma Boss",
     "itemPickupLog": "Registro de Items Recolectados",
     "avoidPlacingEnchantedItems": "Evitar poner Items Encantados en el suelo",
-    "makeEndermenHoldingItemPink": "Hacer que los Endermans que tengan un Item a color Rosa",
+    "makeEndermenHoldingItemPink": "Hacer que los Endermans que tengan un Item sean color Rosa",
     "avoidBreakingStems": "Evitar romper los Tallos",
     "magmaBossTimerColor": "Color del Contador del Magma Boss",
     "darkAuctionTimerColor": "Color del Contador del Dark Auction",
@@ -72,20 +72,20 @@
     "dropConfirmation": "¡Dropea el Objeto otra vez para soltar!",
     "magmaBossWarning": "¡Magma Boss!",
     "fullInventory": "¡Inventario Lleno!",
-    "newVersion": "Una nueva versión, %newestVersion% se encuentra disponible. Descárgalo haciendo Click Aquí.",
-    "discord": "¿Quieres ver los cambios? Haz click aquí para ingresar en mi Discord.",
-    "developmentVersion": "Estás ejecutando la versión: %version%. La última versión online es %newestVersion%",
+    "newVersion": "Una nueva versión, %newestVersion% se encuentra disponible. Descárgala haciendo Click Aquí.",
+    "discord": "¿Quieres ver los cambios? Haz click aquí para entrar en mi Discord.",
+    "developmentVersion": "Estás usando la versión: %version%. La última versión online es %newestVersion%",
     "labymod": "Usuarios de Labymod: Ocultar la Barra de Comida y Armadura Es incompatible.",
     "minionCannotReach": "¡Un minion de tipo %type% No puede alcanzar a ningún mob y ha parado de generar más!",
     "minionIsFull": "¡Un Minion en la Isla tiene el Inventario Lleno!",
     "typeEnchantmentsHere": "¡Escribe %type% aqui!",
-    "separateMultiple": "Separa múltiples en comas.",
-    "enchantsToMatch": "%type% para que coincida:",
-    "enchantsToExclude": "%type% para excluir:",
+    "separateMultiple": "Separa múltiples con comas.",
+    "enchantsToMatch": "%type% que busca:",
+    "enchantsToExclude": "%type% que no quiere:",
     "inventoryTypes": {
       "enchants": "Encantamientos",
       "reforges": "Reforges"
     },
-    "cancelledStemBreak": "SkyblockAddons Te ha parado de romper este tallo. Usa tu mano si quieres romperlo."
+    "cancelledStemBreak": "SkyblockAddons A prevenido que rompas este tallo. Usa tu mano si quieres romperlo."
   }
 }
